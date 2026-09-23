@@ -17,7 +17,7 @@ Rhys John Paterson
 Rohan Phillips
 Nekoro Spencer
 Angela Lynn Wandera
-
+---
 ## Technologies 
 - Java 17
 - Maven
