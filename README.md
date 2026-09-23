@@ -12,11 +12,11 @@ Scrum Master:
 TBC
 ----
 Team members:
-Brian Alexander
-Rhys John Paterson
-Rohan Phillips
-Nekoro Spencer
-Angela Lynn Wandera
+Brian Alexander, 
+Rhys John Paterson, 
+Rohan Phillips, 
+Nekoro Spencer, 
+Angela Lynn Wandera, 
 ---
 ## Technologies 
 - Java 17
