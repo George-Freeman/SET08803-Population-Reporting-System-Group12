@@ -31,12 +31,12 @@ Angela Lynn Wandera,
 Clone the repository:
 
 ```bash
-git clone git@github.com:George-Freeman/SET08803-Population-Reporting-System-Group12.git
+git clone git@github.com:George-Freeman/SET09803-Population-Reporting-System-Group12.git
 ```
 Enter the project directory:
 
 ```bash
-cd SET08803-Population-Reporting-System-Group12
+cd SET09803-Population-Reporting-System-Group12
 ```
 
 Compile the project using Maven:
