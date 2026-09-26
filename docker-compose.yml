@@ -1,10 +1,15 @@
-  services:
-    db:
-      build: ./db
-      environment:
-        MYSQL_ROOT_PASSWORD: example
-      volumes:
-        - world-data:/var/lib/mysql
+services:
+  app:
+    build: .
+    depends_on:
+      - db
 
-  volumes:
-    world-data:
+  db:
+    build: ./db
+    environment:
+      MYSQL_ROOT_PASSWORD: example
+    volumes:
+      - world-data:/var/lib/mysql
+
+volumes:
+  world-data:
